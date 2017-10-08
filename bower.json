@@ -1,0 +1,23 @@
+{
+  "name": "openlayers4",
+  "authors": [
+    "Luka <luka.glusica89@gmail.com>"
+  ],
+  "description": "Unofficial Openlayers 4 package",
+  "main": [
+    "ol.js",
+    "ol.css"
+  ],
+  "keywords": [
+    "openlayers"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
